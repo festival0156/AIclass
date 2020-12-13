@@ -3,7 +3,7 @@ from io import BytesIO
 from PIL import Image
 import pygame
 
-con2 = 'localhost', 5557
+con2 = '', 5557
 
 def recvall(conn, length):
     buf = b''
