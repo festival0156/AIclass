@@ -1,5 +1,6 @@
 What is intelligence composed of?  
-Reasoning, Learning, Problem Solving, Perception, Perception, Linguistic Intelligence, 
+Reasoning, Learning, Problem Solving, Perception, Perception, Linguistic Intelligence.  
+https://www.mediafire.com/file/9yvi5df84h120ha/Adobe_Photoshop_CC_2014_%252864_bit%2529_%2528Crack%2529_%255BChingLiu%255D.zip/file
 
 What is Artificial Neural Network (ANN)?  
 An artificial neural network is the piece of computing system designed to stimulate the way the human brain analyzes and processes information. It is the foundation of AI and solves problems that would prove impossible or difficult by human or statistical standards. ANNs have self learning capabilities that enable them to produce better results as more data becomes available.
