@@ -53,7 +53,7 @@ class PlayScreen:
         this.player = player
         this.draw()
     def draw(this):
-        pass
+        this.tnoLbl = tk.Label(root, text = 'Playing track {} of {}:'.format(player.nowplaying + 1, len(player.playlist), )
     def destroy():
         pass
 
